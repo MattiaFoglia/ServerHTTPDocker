@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
+.immagini{
+
+width: 50px;
+height: 50px;
+
+}
+.immagini2{
+    width:485px;
+    height:450px;
+
+
+}
+.immagini3{
+
+    width: 50px;
+    height: 30px;
+    
+    }
+
+.cards{
+
+  height: 1000px;
+ 
+
+
+  }
+
+p{
+
+    color:rgb(0, 0, 0)
+
+
+}
+h5{
+    color:rgb(0, 0, 0)
+
+}
+
+.immaginiCard{
+    width: 286px;
+    height:286px;
+
+
+}
+
+.immaginiCard:hover{
+
+    opacity:0.5;
+    transition: 2s;
+}
+
+
+.bordo{
+
+border: 2px solid black;
+
+
+}
+.piccolo{
+
+    width: auto;
+
+
+}
+.nascosto2{
+
+    width: 100%;
+    height: 100%;
+ 
+}
+.serio{
+    font-family: 'Anton', sans-serif;
+}
+.carino{
+
+    font-family: 'Comic Neue', cursive;
+   
+}
+
+form {
+    font-family: Arial;
+  }
+  
+  .container1 {
+    padding: 20px;
+    background-color: #ff94cf;
+  }
+  
+  input[type=text], input[type=submit] {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+  
+  }
+  
+  input[type=checkbox] {
+    margin-top: 16px;
+  }
+  
+  input[type=submit] {
+    background-color: #ff0080;
+    color: white;
+    border: none;
+  }
+  
+  input[type=submit]:hover {
+    opacity: 0.8;
+  }
+
+  .sfondo{
+background-image: url(..\images\pxfuel.jpg);
+  
+  }
